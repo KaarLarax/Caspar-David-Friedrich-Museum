@@ -1,0 +1,53 @@
+fileFormatVersion: 2
+guid: 79aba4d534c8a3742b12b14c8239401a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Terrains\wanderer-above-the-sea-of-fog\source\sketch.bin
+    assetPath: Assets\Terrains\wanderer-above-the-sea-of-fog\source\sketch.bin
+  - type: 1
+    originalUri: Assets\Terrains\wanderer-above-the-sea-of-fog\source\Brush_Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-MainTex.png
+    assetPath: Assets\Terrains\wanderer-above-the-sea-of-fog\source\Brush_Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets\Terrains\wanderer-above-the-sea-of-fog\source\Brush_Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-BumpMap.png
+    assetPath: Assets\Terrains\wanderer-above-the-sea-of-fog\source\Brush_Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-BumpMap.png
+  - type: 1
+    originalUri: Assets\Terrains\wanderer-above-the-sea-of-fog\source\Brush_ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-MainTex.png
+    assetPath: Assets\Terrains\wanderer-above-the-sea-of-fog\source\Brush_ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets\Terrains\wanderer-above-the-sea-of-fog\source\Brush_ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-BumpMap.png
+    assetPath: Assets\Terrains\wanderer-above-the-sea-of-fog\source\Brush_ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-BumpMap.png
+  - type: 1
+    originalUri: Assets\Terrains\wanderer-above-the-sea-of-fog\source\Brush_Marker-429ed64a-4e97-4466-84d3-145a861ef684-v10.0-MainTex.png
+    assetPath: Assets\Terrains\wanderer-above-the-sea-of-fog\source\Brush_Marker-429ed64a-4e97-4466-84d3-145a861ef684-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets\Terrains\wanderer-above-the-sea-of-fog\source\media_Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg
+    assetPath: Assets\Terrains\wanderer-above-the-sea-of-fog\source\media_Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - GOOGLE_tilt_brush_material
