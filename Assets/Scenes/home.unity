@@ -1920,9 +1920,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 276768474}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 84560f41a9d7f0840b03c8ecccd651df, type: 3}
+  m_Script: {fileID: 11500000, guid: 3905ef9e76d3db74cbba44c4dd5e2183, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  canciones:
+  - {fileID: 8300000, guid: fbd5cb78a0eac0545b13cd47bbe29927, type: 3}
+  - {fileID: 8300000, guid: 70c7b0666cdb1b44e81d6bad3d9ce711, type: 3}
+  - {fileID: 8300000, guid: 3b1d9bfdccf518a4192fbd58a7d1f201, type: 3}
+  - {fileID: 8300000, guid: 84d52c926668f3e49824f5b472c676f6, type: 3}
+  - {fileID: 8300000, guid: d871fe59d08cf8645aea660c40dc08bd, type: 3}
+  - {fileID: 8300000, guid: 719a3235656022e4ca141bebede9dc21, type: 3}
+  - {fileID: 8300000, guid: aca1633b56391264c861441478acec08, type: 3}
 --- !u!4 &276768477
 Transform:
   m_ObjectHideFlags: 0
@@ -14191,8 +14199,8 @@ GameObject:
   - component: {fileID: 4714909371103273197}
   - component: {fileID: 6839476527716447765}
   - component: {fileID: 1908720536405663388}
-  - component: {fileID: 6839476527716447766}
   - component: {fileID: 6839476527716447767}
+  - component: {fileID: 6839476527716447766}
   - component: {fileID: 6839476527716447768}
   m_Layer: 8
   m_Name: Stend
@@ -14640,7 +14648,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 562231179331583813}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 30e9112981a4a924b8324b364f0854ca, type: 3}
+  m_Script: {fileID: 0}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!82 &6839476527716447768
@@ -14653,7 +14661,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0e8ad7947c30a6148bbeb8c4d37e2b06, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
